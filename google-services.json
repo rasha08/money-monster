@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511091232718",
+    "firebase_url": "https://scs-money-monster.firebaseio.com",
+    "project_id": "scs-money-monster",
+    "storage_bucket": "scs-money-monster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511091232718:android:d03c1668a2db6ba2d6259f",
+        "android_client_info": {
+          "package_name": "scs.money_monster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511091232718-hf8a12oid8bca5h3010tddfpms8gnah0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJR7is1Iq0dbRw6voYOVF4aYXwsT9GBqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511091232718-hf8a12oid8bca5h3010tddfpms8gnah0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
